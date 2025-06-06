@@ -65,5 +65,5 @@ Based on these results, **K=3** is recommended as the most practical model.
 ---
 
 Author: Emine Uysal   
-Assignment_1: Clustering Analysis  
+Assignment_1: SAS Clustering Analysis  
 Date: October 2024
